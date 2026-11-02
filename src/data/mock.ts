@@ -19,7 +19,7 @@ export const heroStories: HeroStory[] = [
   {
     kicker: "Vithsutra Stories",
     title: "Precision SMT Manufacturing",
-    desc: "",
+    desc: "We are BIS certified smt partner for precision light manufacturing",
     tab: "Made in India, Built Here",
     img: "MSM_0093.jpg",
   },
