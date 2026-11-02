@@ -16,27 +16,27 @@ export const vlightSegments: VlightSegment[] = [
     id: "domestic",
     label: "Domestic",
     products: [
-      { name: "LED Bulb", spec: "9W / 18W / 50W", icon: "bulb" },
-      { name: "Tube Light", spec: "20W", icon: "tube" },
-      { name: "Panel Light", spec: "9W / 20W / 30W / 40W", icon: "panel" },
+      { name: "LED Bulb", spec: "9W / 18W / 50W", icon: "bulb", img: "/vlight/led-bulb.png" },
+      { name: "Tube Light", spec: "20W", icon: "tube", img: "/vlight/tube-light.png" },
+      { name: "Panel Light", spec: "9W / 20W / 30W / 40W", icon: "panel", img: "/vlight/panel-light.png" },
     ],
   },
   {
     id: "decorative",
     label: "Decorative",
     products: [
-      { name: "COB Light", spec: "Warm & cool variants", icon: "cob" },
-      { name: "Focus Light", spec: "Recessed spot", icon: "focus" },
-      { name: "Track Light", spec: "Adjustable head", icon: "track" },
+      { name: "COB Light", spec: "Warm & cool variants", icon: "cob", img: "/vlight/cob-light.png" },
+      { name: "Focus Light", spec: "Recessed spot", icon: "focus", img: "/vlight/focus-light.png" },
+      { name: "Track Light", spec: "Adjustable head", icon: "track", img: "/vlight/track-light.png" },
     ],
   },
   {
     id: "outdoor",
     label: "Outdoor",
     products: [
-      { name: "Flood Light", spec: "30W / 50W / 100W / 200W", icon: "flood" },
-      { name: "Street Light", spec: "30W / 36W / 50W / 100W", icon: "street" },
-      { name: "Solar Street Light", spec: "30AH / 60AH", icon: "solar" },
+      { name: "Flood Light", spec: "30W / 50W / 100W / 200W", icon: "flood", img: "/vlight/flood-light.png" },
+      { name: "Street Light", spec: "30W / 36W / 50W / 100W", icon: "street", img: "/vlight/street-light.png" },
+      { name: "Solar Street Light", spec: "30AH / 60AH", icon: "solar", img: "/vlight/solar-street-light.png" },
     ],
   },
 ];

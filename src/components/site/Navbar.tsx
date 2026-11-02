@@ -7,7 +7,6 @@ import Logo from "./Logo";
 
 const navItems = [
   { label: "About Us", href: "#about" },
-  { label: "Products", href: "#products" },
   { label: "Clients", href: "#clients" },
   { label: "Tranings", href: "#trainings" },
   {label:"Vlight",href:"/vlight"}

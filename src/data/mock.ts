@@ -18,10 +18,10 @@ export const heroStories: HeroStory[] = [
   },
   {
     kicker: "Vithsutra Stories",
-    title: "Smart Farming, Smarter Yields",
-    desc: "Hydroponics automation and precision sensing that empowers farmers to grow more with less.",
-    tab: "Smart Farming, Smarter",
-    img: "Vithnet.png",
+    title: "Precision SMT Manufacturing",
+    desc: "",
+    tab: "Made in India, Built Here",
+    img: "MSM_0093.jpg",
   },
  {
   kicker: "vlight",
